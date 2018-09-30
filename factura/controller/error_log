@@ -1,0 +1,89 @@
+[26-Sep-2018 20:01:01 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 164
+[26-Sep-2018 20:01:01 America/New_York] PHP Notice:  Undefined index: cols in /home/jrxsyzeu/public_html/admintest/assets/plugins/tcpdf/tcpdf.php on line 16935
+[26-Sep-2018 20:01:01 America/New_York] PHP Notice:  Undefined index: thead in /home/jrxsyzeu/public_html/admintest/assets/plugins/tcpdf/tcpdf.php on line 16505
+[26-Sep-2018 20:17:48 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 416
+[26-Sep-2018 20:17:48 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 416
+[26-Sep-2018 20:17:48 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 416
+[26-Sep-2018 20:17:48 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 416
+[26-Sep-2018 20:17:48 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 416
+[26-Sep-2018 20:17:48 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 416
+[26-Sep-2018 20:17:48 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 416
+[26-Sep-2018 20:17:48 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 416
+[26-Sep-2018 20:17:48 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 416
+[26-Sep-2018 20:17:48 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 416
+[26-Sep-2018 20:17:48 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 416
+[26-Sep-2018 20:17:48 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 416
+[26-Sep-2018 20:17:48 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 416
+[26-Sep-2018 20:17:48 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 416
+[26-Sep-2018 20:35:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 174
+[26-Sep-2018 20:35:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 175
+[26-Sep-2018 20:35:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 176
+[26-Sep-2018 20:35:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 177
+[26-Sep-2018 20:35:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 178
+[26-Sep-2018 20:35:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 174
+[26-Sep-2018 20:35:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 175
+[26-Sep-2018 20:35:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 176
+[26-Sep-2018 20:35:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 177
+[26-Sep-2018 20:35:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 178
+[26-Sep-2018 20:35:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 174
+[26-Sep-2018 20:35:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 175
+[26-Sep-2018 20:35:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 176
+[26-Sep-2018 20:35:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 177
+[26-Sep-2018 20:35:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 178
+[26-Sep-2018 20:35:53 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 390
+[26-Sep-2018 20:35:53 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 390
+[26-Sep-2018 20:35:53 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 390
+[26-Sep-2018 20:35:53 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 390
+[26-Sep-2018 20:35:53 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 390
+[26-Sep-2018 20:35:53 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 390
+[26-Sep-2018 20:35:53 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 390
+[26-Sep-2018 20:35:53 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 390
+[26-Sep-2018 20:35:53 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 390
+[26-Sep-2018 20:35:53 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 390
+[26-Sep-2018 20:35:53 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 390
+[26-Sep-2018 20:35:53 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 390
+[26-Sep-2018 20:35:53 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 390
+[26-Sep-2018 20:35:53 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 390
+[26-Sep-2018 20:42:38 America/New_York] PHP Notice:  Trying to get property of non-object in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 174
+[26-Sep-2018 20:42:38 America/New_York] PHP Notice:  Trying to get property of non-object in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 175
+[26-Sep-2018 20:42:38 America/New_York] PHP Notice:  Trying to get property of non-object in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 176
+[26-Sep-2018 20:42:38 America/New_York] PHP Notice:  Trying to get property of non-object in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 177
+[26-Sep-2018 20:42:38 America/New_York] PHP Notice:  Trying to get property of non-object in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 178
+[26-Sep-2018 20:42:38 America/New_York] PHP Notice:  Trying to get property of non-object in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 174
+[26-Sep-2018 20:42:38 America/New_York] PHP Notice:  Trying to get property of non-object in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 175
+[26-Sep-2018 20:42:38 America/New_York] PHP Notice:  Trying to get property of non-object in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 176
+[26-Sep-2018 20:42:38 America/New_York] PHP Notice:  Trying to get property of non-object in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 177
+[26-Sep-2018 20:42:38 America/New_York] PHP Notice:  Trying to get property of non-object in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 178
+[26-Sep-2018 20:42:38 America/New_York] PHP Notice:  Trying to get property of non-object in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 174
+[26-Sep-2018 20:42:38 America/New_York] PHP Notice:  Trying to get property of non-object in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 175
+[26-Sep-2018 20:42:38 America/New_York] PHP Notice:  Trying to get property of non-object in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 176
+[26-Sep-2018 20:42:38 America/New_York] PHP Notice:  Trying to get property of non-object in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 177
+[26-Sep-2018 20:42:38 America/New_York] PHP Notice:  Trying to get property of non-object in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 178
+[26-Sep-2018 20:42:38 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 390
+[26-Sep-2018 20:42:38 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 390
+[26-Sep-2018 20:42:38 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 390
+[26-Sep-2018 20:42:38 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 390
+[26-Sep-2018 20:42:38 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 390
+[26-Sep-2018 20:42:38 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 390
+[26-Sep-2018 20:42:38 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 390
+[26-Sep-2018 20:42:38 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 390
+[26-Sep-2018 20:42:38 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 390
+[26-Sep-2018 20:42:38 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 390
+[26-Sep-2018 20:42:38 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 390
+[26-Sep-2018 20:42:38 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 390
+[26-Sep-2018 20:42:38 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 390
+[26-Sep-2018 20:42:38 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 390
+[26-Sep-2018 20:44:26 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 390
+[26-Sep-2018 20:44:26 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 390
+[26-Sep-2018 20:44:26 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 390
+[26-Sep-2018 20:44:26 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 390
+[26-Sep-2018 20:44:26 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 390
+[26-Sep-2018 20:44:26 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 390
+[26-Sep-2018 20:44:26 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 390
+[26-Sep-2018 20:44:26 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 390
+[26-Sep-2018 20:44:26 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 390
+[26-Sep-2018 20:44:26 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 390
+[26-Sep-2018 20:44:26 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 390
+[26-Sep-2018 20:44:26 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 390
+[26-Sep-2018 20:44:26 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 390
+[26-Sep-2018 20:44:26 America/New_York] PHP Notice:  Undefined property: Factura::$flags in /home/jrxsyzeu/public_html/admintest/factura/model/clsFactura.php on line 390
